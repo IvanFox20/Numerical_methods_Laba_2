@@ -1,0 +1,15 @@
+D:\Код\Численные методы лабы\Laba 2\Laba 2\bin\Debug\net7.0\Laba 2.exe
+D:\Код\Численные методы лабы\Laba 2\Laba 2\bin\Debug\net7.0\Laba 2.deps.json
+D:\Код\Численные методы лабы\Laba 2\Laba 2\bin\Debug\net7.0\Laba 2.runtimeconfig.json
+D:\Код\Численные методы лабы\Laba 2\Laba 2\bin\Debug\net7.0\Laba 2.dll
+D:\Код\Численные методы лабы\Laba 2\Laba 2\bin\Debug\net7.0\Laba 2.pdb
+D:\Код\Численные методы лабы\Laba 2\Laba 2\obj\Debug\net7.0\Laba 2.csproj.AssemblyReference.cache
+D:\Код\Численные методы лабы\Laba 2\Laba 2\obj\Debug\net7.0\Laba 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Код\Численные методы лабы\Laba 2\Laba 2\obj\Debug\net7.0\Laba 2.AssemblyInfoInputs.cache
+D:\Код\Численные методы лабы\Laba 2\Laba 2\obj\Debug\net7.0\Laba 2.AssemblyInfo.cs
+D:\Код\Численные методы лабы\Laba 2\Laba 2\obj\Debug\net7.0\Laba 2.csproj.CoreCompileInputs.cache
+D:\Код\Численные методы лабы\Laba 2\Laba 2\obj\Debug\net7.0\Laba 2.dll
+D:\Код\Численные методы лабы\Laba 2\Laba 2\obj\Debug\net7.0\refint\Laba 2.dll
+D:\Код\Численные методы лабы\Laba 2\Laba 2\obj\Debug\net7.0\Laba 2.pdb
+D:\Код\Численные методы лабы\Laba 2\Laba 2\obj\Debug\net7.0\Laba 2.genruntimeconfig.cache
+D:\Код\Численные методы лабы\Laba 2\Laba 2\obj\Debug\net7.0\ref\Laba 2.dll
