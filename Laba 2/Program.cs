@@ -4,34 +4,15 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Enter the number of rows for matrix A:");
-        int rowsA = int.Parse(Console.ReadLine());
+        // Example usage
+        
+        double[,] A = {
+    {4, -1, 0},
+    {-1, 5, 2},
+    {0, 2, 9}
+};
 
-        Console.WriteLine("Enter the number of columns for matrix A:");
-        int colsA = int.Parse(Console.ReadLine());
-
-        double[,] A = new double[rowsA, colsA];
-
-        Console.WriteLine("Enter the values for matrix A:");
-
-        for (int i = 0; i < rowsA; i++)
-        {
-            for (int j = 0; j < colsA; j++)
-            {
-                Console.Write($"A[{i},{j}]: ");
-                A[i, j] = double.Parse(Console.ReadLine());
-            }
-        }
-
-        Console.WriteLine("Enter the values for vector B:");
-
-        double[] B = new double[rowsA];
-
-        for (int i = 0; i < rowsA; i++)
-        {
-            Console.Write($"B[{i}]: ");
-            B[i] = double.Parse(Console.ReadLine());
-        }
+double[] B = {1, 2, 3};
 
         int iters = 2000;
         double eps = 1e-4;
